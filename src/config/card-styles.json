@@ -61,8 +61,8 @@
 		"width": 266,
 		"height": 160,
 		"order": 8,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": -451,
+		"offsetY": 184,
 		"enabled": true
 	},
 	"writeButtons": {

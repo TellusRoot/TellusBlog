@@ -15,12 +15,13 @@
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#EDDD62",
 		"#9EE7D1",
 		"#84D68A",
-		"#EDDD62",
 		"#88E6E5",
-		"#a7f3d0"
+		"#003eba",
+		"#428fec",
+		"#83a5ff",
+		"#e8d967"
 	],
 	"artImages": [
 		{
